@@ -42,3 +42,8 @@ The code: #include <stdio.h>
 I saved the file and compiled it into an executable : gcc hello.c -o hello
 I executed the program : ./hello
 Output was: Hello World!
+
+8. I made a repositori in git and pushed all the files there.
+git add .
+git commit -m "v2"
+git push
